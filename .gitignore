@@ -1,0 +1,10 @@
+linkedin_post.txt
+x_post.txt
+*_secrets/
+.env
+.DS_Store
+review/
+tests/
+shots/desk_*
+shots/mob_*
+shots/study_*
